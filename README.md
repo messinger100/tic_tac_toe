@@ -1,6 +1,6 @@
-# tic_tac_toe
+# Tic Tac Toñawer
 
-A new Flutter project.
+A new Flutter project than represents the classic game Tic Tac Toe. Toñawer is my nickname in real life :P
 
 ## Getting Started
 
